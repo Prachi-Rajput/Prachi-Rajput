@@ -26,6 +26,9 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prachi-Rajput&show_icons=true&locale=en&layout=compact" alt="Prachi-Rajput" /></p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prachi-Rajput&show_icons=true&locale=en" alt="Prachi-Rajput" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prachi-Rajput&" alt="Prachi-Rajput" /></p>
